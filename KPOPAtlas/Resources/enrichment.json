@@ -1,0 +1,529 @@
+{
+  "stories": [
+    {
+      "groupID": "g000",
+      "debutDate": "2013-06-13",
+      "debutRelease": "2 COOL 4 SKOOL",
+      "about": "團名來自 Bangtan Sonyeondan，也以 Beyond the Scene 傳達延伸意義。七位成員在音樂與表演中參與創作，從青春與自我認同出發，連結世界各地的 ARMY。",
+      "tracks": [
+        {
+          "title": "No More Dream",
+          "note": "從早期嘻哈聲響認識團體的起點。"
+        },
+        {
+          "title": "Dynamite",
+          "note": "首支全英語歌曲，聆聽明亮的 disco-pop 節奏。"
+        },
+        {
+          "title": "Butter",
+          "note": "以流暢節奏感呈現的英語 dance-pop 單曲。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "BIGHIT 官方團體介紹",
+          "url": "https://bts.ibighit.com/eng/profile/"
+        },
+        {
+          "title": "韓國政府文化新聞：出道紀念",
+          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=216209"
+        },
+        {
+          "title": "Dynamite 官方作品介紹",
+          "url": "https://bts.ibighit.com/eng/discography/detail/dynamite.html"
+        },
+        {
+          "title": "Butter 官方作品介紹",
+          "url": "https://bts.ibighit.com/eng/discography/detail/butter.html"
+        }
+      ]
+    },
+    {
+      "groupID": "g001",
+      "debutDate": "2019-03-04",
+      "debutRelease": "The Dream Chapter: STAR",
+      "about": "五位成員以各不相同的個性相遇，透過音樂描繪青春中的情緒。出道作品以遇見特別的人時的喜悅與悸動為主題，適合從專輯故事與表演一起認識團體。",
+      "tracks": [
+        {
+          "title": "CROWN",
+          "note": "從出道作品聆聽青春的起點。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "BIGHIT 官方介紹",
+          "url": "https://txt.ibighit.com/eng/profile/"
+        },
+        {
+          "title": "出道作品官方介紹",
+          "url": "https://txt.ibighit.com/eng/discography/detail/the_dream_chapter-star.html"
+        },
+        {
+          "title": "KBS 藝人介紹",
+          "url": "https://world.kbs.co.kr/service/contents_view.htm?board_seq=360357&lang=e&menu_cate=artist"
+        }
+      ]
+    },
+    {
+      "groupID": "g023",
+      "debutDate": "2015-10-20",
+      "debutRelease": "THE STORY BEGINS",
+      "about": "九位成員組成的團體，以鮮明旋律與團體表演受到喜愛。可先從出道專輯的六首歌曲探索最初的色彩，再透過官方作品目錄感受不同時期的風格變化。",
+      "tracks": [
+        {
+          "title": "Like OOH-AHH",
+          "note": "出道專輯的第一首歌曲。"
+        },
+        {
+          "title": "Like a Fool",
+          "note": "用出道專輯中的抒情曲感受不同聲線。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "JYP 官方成員資料",
+          "url": "https://twice.jype.com/Default/Profile"
+        },
+        {
+          "title": "出道專輯官方曲目",
+          "url": "https://twice.jype.com/discography/jqpvqq2k?AmSeq=undefined&PgIndex=undefined"
+        },
+        {
+          "title": "團體唱片沿革",
+          "url": "https://en.wikipedia.org/wiki/Twice_albums_discography"
+        }
+      ]
+    },
+    {
+      "groupID": "g033",
+      "debutDate": "2016-08-08",
+      "debutRelease": "SQUARE ONE",
+      "about": "JISOO、JENNIE、ROSÉ、LISA 以不同音色與表演個性組成 BLACKPINK。從出道作品的雙主打認識團體，可以同時感受帶有留白的節奏與高能量舞曲。",
+      "tracks": [
+        {
+          "title": "WHISTLE",
+          "note": "從節奏與音色認識出道雙主打之一。"
+        },
+        {
+          "title": "BOOMBAYAH",
+          "note": "感受出道作品的舞曲能量。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "YG 官方成員介紹",
+          "url": "https://ygfamily.com/en/artists/blackpink/profile"
+        },
+        {
+          "title": "YG 官方出道沿革",
+          "url": "https://ygfamily.com/en/artists/blackpink/discography/231"
+        }
+      ]
+    },
+    {
+      "groupID": "g002",
+      "debutDate": "2015-05-26",
+      "debutRelease": "17 CARAT",
+      "about": "團名的數字由 13 位成員、3 個小分隊和 1 個團隊組成。演唱、嘻哈、表演小分隊呈現不同音樂面貌，適合搭配成員名錄與官方作品探索多人舞台的層次。",
+      "tracks": [],
+      "sources": [
+        {
+          "title": "PLEDIS 官方介紹",
+          "url": "https://www.pledis.co.kr/artist/detail/seventeen/profile/"
+        },
+        {
+          "title": "日本官方介紹與出道日期",
+          "url": "https://www.seventeen-17.jp/pages/profile"
+        }
+      ]
+    },
+    {
+      "groupID": "g010",
+      "debutDate": "2020-11-17",
+      "debutRelease": "Black Mamba",
+      "about": "團體名稱結合 avatar、experience 與 aspect 的概念。Karina、Giselle、Winter、Ningning 以實體表演與虛擬角色敘事建立音樂世界，出道單曲是認識概念的入口。",
+      "tracks": [
+        {
+          "title": "Black Mamba",
+          "note": "從出道單曲與影像理解虛實連結的概念。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "日本官方作品介紹",
+          "url": "https://aespa-official.jp/discography/black-mamba/"
+        },
+        {
+          "title": "Warner Records 官方團體介紹",
+          "url": "https://press.warnerrecords.com/sites/g/files/g2000014901/files/2022-07/aespa-Girls-PR-FINAL.pdf"
+        }
+      ]
+    }
+  ],
+  "profiles": [
+    {
+      "memberID": "g023:Nayeon",
+      "localName": "나연",
+      "birthday": "1995-09-22",
+      "wikipediaTitle": "Nayeon",
+      "sourceURL": "https://twice.jype.com/Default/Profile"
+    },
+    {
+      "memberID": "g023:Jeongyeon",
+      "localName": "정연",
+      "birthday": "1996-11-01",
+      "wikipediaTitle": "Jeongyeon",
+      "sourceURL": "https://twice.jype.com/Default/Profile"
+    },
+    {
+      "memberID": "g023:Momo",
+      "localName": "모모",
+      "birthday": "1996-11-09",
+      "wikipediaTitle": "Momo (singer)",
+      "sourceURL": "https://twice.jype.com/Default/Profile"
+    },
+    {
+      "memberID": "g023:Sana",
+      "localName": "사나",
+      "birthday": "1996-12-29",
+      "wikipediaTitle": "Sana (singer)",
+      "sourceURL": "https://twice.jype.com/Default/Profile"
+    },
+    {
+      "memberID": "g023:Jihyo",
+      "localName": "지효",
+      "birthday": "1997-02-01",
+      "wikipediaTitle": "Jihyo",
+      "sourceURL": "https://twice.jype.com/Default/Profile"
+    },
+    {
+      "memberID": "g023:Mina",
+      "localName": "미나",
+      "birthday": "1997-03-24",
+      "wikipediaTitle": "Mina (Japanese singer)",
+      "sourceURL": "https://twice.jype.com/Default/Profile"
+    },
+    {
+      "memberID": "g023:Dahyun",
+      "localName": "다현",
+      "birthday": "1998-05-28",
+      "wikipediaTitle": "Dahyun",
+      "sourceURL": "https://twice.jype.com/Default/Profile"
+    },
+    {
+      "memberID": "g023:Chaeyoung",
+      "localName": "채영",
+      "birthday": "1999-04-23",
+      "wikipediaTitle": "Chaeyoung",
+      "sourceURL": "https://twice.jype.com/Default/Profile"
+    },
+    {
+      "memberID": "g023:Tzuyu",
+      "localName": "쯔위",
+      "birthday": "1999-06-14",
+      "wikipediaTitle": "Tzuyu",
+      "sourceURL": "https://twice.jype.com/Default/Profile"
+    },
+    {
+      "memberID": "g033:Jisoo",
+      "localName": "지수",
+      "birthday": "1995-01-03",
+      "wikipediaTitle": "Jisoo",
+      "sourceURL": "https://ygfamily.com/en/artists/blackpink/profile"
+    },
+    {
+      "memberID": "g033:Jennie",
+      "localName": "제니",
+      "birthday": "1996-01-16",
+      "wikipediaTitle": "Jennie (singer)",
+      "sourceURL": "https://ygfamily.com/en/artists/blackpink/profile"
+    },
+    {
+      "memberID": "g033:Rosé",
+      "localName": "로제",
+      "birthday": "1997-02-11",
+      "wikipediaTitle": "Rosé (singer)",
+      "sourceURL": "https://ygfamily.com/en/artists/blackpink/profile"
+    },
+    {
+      "memberID": "g033:Lisa",
+      "localName": "리사",
+      "birthday": "1997-03-27",
+      "wikipediaTitle": "Lisa (rapper)",
+      "sourceURL": "https://ygfamily.com/en/artists/blackpink/profile"
+    },
+    {
+      "memberID": "g024:Bang Chan",
+      "localName": "방찬",
+      "birthday": "1997-10-03",
+      "wikipediaTitle": "Bang Chan",
+      "sourceURL": "https://straykids.jype.com/profile"
+    },
+    {
+      "memberID": "g024:Lee Know",
+      "localName": "리노",
+      "birthday": "1998-10-25",
+      "wikipediaTitle": "Lee Know",
+      "sourceURL": "https://straykids.jype.com/profile"
+    },
+    {
+      "memberID": "g024:Changbin",
+      "localName": "창빈",
+      "birthday": "1999-08-11",
+      "wikipediaTitle": "Changbin",
+      "sourceURL": "https://straykids.jype.com/profile"
+    },
+    {
+      "memberID": "g024:Hyunjin",
+      "localName": "현진",
+      "birthday": "2000-03-20",
+      "wikipediaTitle": "Hyunjin",
+      "sourceURL": "https://straykids.jype.com/profile"
+    },
+    {
+      "memberID": "g024:Han",
+      "localName": "한",
+      "birthday": "2000-09-14",
+      "wikipediaTitle": "Han (musician)",
+      "sourceURL": "https://straykids.jype.com/profile"
+    },
+    {
+      "memberID": "g024:Felix",
+      "localName": "필릭스",
+      "birthday": "2000-09-15",
+      "wikipediaTitle": "Felix (rapper)",
+      "sourceURL": "https://straykids.jype.com/profile"
+    },
+    {
+      "memberID": "g024:Seungmin",
+      "localName": "승민",
+      "birthday": "2000-09-22",
+      "wikipediaTitle": "Seungmin",
+      "sourceURL": "https://straykids.jype.com/profile"
+    },
+    {
+      "memberID": "g024:I.N",
+      "localName": "아이엔",
+      "birthday": "2001-02-08",
+      "wikipediaTitle": "I.N",
+      "sourceURL": "https://straykids.jype.com/profile"
+    },
+    {
+      "memberID": "g025:Yeji",
+      "localName": "예지",
+      "birthday": "2000-05-26",
+      "wikipediaTitle": "Yeji",
+      "sourceURL": "https://itzy.jype.com/profile"
+    },
+    {
+      "memberID": "g025:Lia",
+      "localName": "리아",
+      "birthday": "2000-07-21",
+      "wikipediaTitle": "Lia (singer)",
+      "sourceURL": "https://itzy.jype.com/profile"
+    },
+    {
+      "memberID": "g025:Ryujin",
+      "localName": "류진",
+      "birthday": "2001-04-17",
+      "wikipediaTitle": "Ryujin",
+      "sourceURL": "https://itzy.jype.com/profile"
+    },
+    {
+      "memberID": "g025:Chaeryeong",
+      "localName": "채령",
+      "birthday": "2001-06-05",
+      "wikipediaTitle": "Chaeryeong",
+      "sourceURL": "https://itzy.jype.com/profile"
+    },
+    {
+      "memberID": "g025:Yuna",
+      "localName": "유나",
+      "birthday": "2003-12-09",
+      "wikipediaTitle": "Yuna (singer)",
+      "sourceURL": "https://itzy.jype.com/profile"
+    },
+    {
+      "memberID": "g000:RM",
+      "localName": "",
+      "birthday": null,
+      "wikipediaTitle": "RM (musician)",
+      "sourceURL": "https://bts.ibighit.com/eng/profile/"
+    },
+    {
+      "memberID": "g000:Jin",
+      "localName": "",
+      "birthday": null,
+      "wikipediaTitle": "Jin (singer)",
+      "sourceURL": "https://bts.ibighit.com/eng/profile/"
+    },
+    {
+      "memberID": "g000:SUGA",
+      "localName": "",
+      "birthday": null,
+      "wikipediaTitle": "Suga",
+      "sourceURL": "https://bts.ibighit.com/eng/profile/"
+    },
+    {
+      "memberID": "g000:j-hope",
+      "localName": "",
+      "birthday": null,
+      "wikipediaTitle": "J-Hope",
+      "sourceURL": "https://bts.ibighit.com/eng/profile/"
+    },
+    {
+      "memberID": "g000:Jimin",
+      "localName": "",
+      "birthday": null,
+      "wikipediaTitle": "Jimin",
+      "sourceURL": "https://bts.ibighit.com/eng/profile/"
+    },
+    {
+      "memberID": "g000:V",
+      "localName": "",
+      "birthday": null,
+      "wikipediaTitle": "V (singer)",
+      "sourceURL": "https://bts.ibighit.com/eng/profile/"
+    },
+    {
+      "memberID": "g000:Jung Kook",
+      "localName": "",
+      "birthday": null,
+      "wikipediaTitle": "Jungkook",
+      "sourceURL": "https://bts.ibighit.com/eng/profile/"
+    },
+    {
+      "memberID": "g001:Soobin",
+      "localName": "",
+      "birthday": null,
+      "wikipediaTitle": "Soobin",
+      "sourceURL": "https://txt.ibighit.com/eng/profile/"
+    },
+    {
+      "memberID": "g001:Yeonjun",
+      "localName": "",
+      "birthday": null,
+      "wikipediaTitle": "Yeonjun",
+      "sourceURL": "https://txt.ibighit.com/eng/profile/"
+    },
+    {
+      "memberID": "g001:Beomgyu",
+      "localName": "",
+      "birthday": null,
+      "wikipediaTitle": "Beomgyu",
+      "sourceURL": "https://txt.ibighit.com/eng/profile/"
+    },
+    {
+      "memberID": "g001:Taehyun",
+      "localName": "",
+      "birthday": null,
+      "wikipediaTitle": "Taehyun",
+      "sourceURL": "https://txt.ibighit.com/eng/profile/"
+    },
+    {
+      "memberID": "g001:Huening Kai",
+      "localName": "",
+      "birthday": null,
+      "wikipediaTitle": "Huening Kai",
+      "sourceURL": "https://txt.ibighit.com/eng/profile/"
+    }
+  ],
+  "photos": [
+    {
+      "id": "BTS for Samsung Galaxy, 2022.jpg",
+      "groupID": "g000",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/5b/BTS_for_Samsung_Galaxy%2C_2022.jpg",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:BTS_for_Samsung_Galaxy%2C_2022.jpg",
+      "author": "Samsung Saudi Arabia",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+      "caption": "BTS · Samsung Galaxy 宣傳影像，2022",
+      "width": 781,
+      "height": 719
+    },
+    {
+      "id": "TWICE in Las Vegas 01.jpg",
+      "groupID": "g023",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/TWICE_in_Las_Vegas_01.jpg/1280px-TWICE_in_Las_Vegas_01.jpg",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:TWICE_in_Las_Vegas_01.jpg",
+      "author": "David Lee",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+      "caption": "TWICE · 拉斯維加斯舞台，2024-03-16",
+      "width": 4364,
+      "height": 2455
+    },
+    {
+      "id": "TWICE in Las Vegas 02.jpg",
+      "groupID": "g023",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/TWICE_in_Las_Vegas_02.jpg/1280px-TWICE_in_Las_Vegas_02.jpg",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:TWICE_in_Las_Vegas_02.jpg",
+      "author": "David Lee",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+      "caption": "TWICE · 拉斯維加斯舞台，2024-03-16",
+      "width": 5152,
+      "height": 2898
+    },
+    {
+      "id": "Blackpink Coachella 2023 01.jpg",
+      "groupID": "g033",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Blackpink_Coachella_2023_01.jpg/1280px-Blackpink_Coachella_2023_01.jpg",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Blackpink_Coachella_2023_01.jpg",
+      "author": "@aanglerrr (aang)",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "caption": "BLACKPINK · Coachella，2023-04-15",
+      "width": 4096,
+      "height": 2731
+    },
+    {
+      "id": "Blackpink Coachella 2023 02.jpg",
+      "groupID": "g033",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Blackpink_Coachella_2023_02.jpg/1280px-Blackpink_Coachella_2023_02.jpg",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Blackpink_Coachella_2023_02.jpg",
+      "author": "@aanglerrr (aang)",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "caption": "BLACKPINK · Coachella，2023-04-15",
+      "width": 4096,
+      "height": 2731
+    },
+    {
+      "id": "Aespa 10.jpg",
+      "groupID": "g010",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Aespa_10.jpg/1280px-Aespa_10.jpg",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Aespa_10.jpg",
+      "author": "David Lee",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+      "caption": "aespa · ShoWare Center，2025-01-28",
+      "width": 4570,
+      "height": 2571
+    },
+    {
+      "id": "Seventeen God of Music UNESCO.jpg",
+      "groupID": "g002",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Seventeen_God_of_Music_UNESCO.jpg/1280px-Seventeen_God_of_Music_UNESCO.jpg",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Seventeen_God_of_Music_UNESCO.jpg",
+      "author": "Seventeen",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+      "caption": "SEVENTEEN · UNESCO 表演影像，2023-11-16",
+      "width": 1290,
+      "height": 775
+    },
+    {
+      "id": "Stray Kids 230109.jpg",
+      "groupID": "g024",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Stray_Kids_230109.jpg/1280px-Stray_Kids_230109.jpg",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Stray_Kids_230109.jpg",
+      "author": "JYPAudition",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+      "caption": "Stray Kids · JYP Audition 宣傳影像，2023-01-09",
+      "width": 1740,
+      "height": 864
+    }
+  ]
+}

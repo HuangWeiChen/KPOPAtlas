@@ -1,0 +1,2744 @@
+{
+  "companies": [
+    {
+      "id": "bighit",
+      "name": "BIGHIT MUSIC",
+      "family": "HYBE",
+      "summary": "BTS、TOMORROW X TOGETHER 與 CORTIS 的出道廠牌，為 HYBE 旗下音樂公司。",
+      "website": "https://bighitsmusic.com/"
+    },
+    {
+      "id": "pledis",
+      "name": "PLEDIS Entertainment",
+      "family": "HYBE",
+      "summary": "從 SEVENTEEN 的自製音樂到 TWS 的青春敘事。",
+      "website": "https://www.pledis.co.kr/"
+    },
+    {
+      "id": "belift",
+      "name": "BELIFT LAB",
+      "family": "HYBE",
+      "summary": "以選秀節目與全球舞台培育新世代偶像。",
+      "website": "https://beliftlab.com/"
+    },
+    {
+      "id": "source",
+      "name": "SOURCE MUSIC",
+      "family": "HYBE",
+      "summary": "從 GFRIEND 到 LE SSERAFIM 的女團音樂篇章。",
+      "website": "https://www.sourcemusic.com/"
+    },
+    {
+      "id": "ador",
+      "name": "ADOR",
+      "family": "HYBE",
+      "summary": "NewJeans 的出道公司；本館記錄出道沿革，不代表即時合約狀態。",
+      "website": "https://ador.world/"
+    },
+    {
+      "id": "koz",
+      "name": "KOZ Entertainment",
+      "family": "HYBE",
+      "summary": "由音樂創作者出發，發掘個性鮮明的團體。",
+      "website": "https://www.kozofficial.com/"
+    },
+    {
+      "id": "sm",
+      "name": "SM Entertainment",
+      "family": "SM",
+      "summary": "橫跨多個世代，以概念、歌唱與舞台表演建立鮮明風格。",
+      "website": "https://www.smentertainment.com/"
+    },
+    {
+      "id": "jyp",
+      "name": "JYP Entertainment",
+      "family": "JYP",
+      "summary": "從經典偶像到樂團，探索充滿節奏感的 JYP 音樂世界。",
+      "website": "https://www.jype.com/"
+    },
+    {
+      "id": "yg",
+      "name": "YG Entertainment",
+      "family": "YG",
+      "summary": "以嘻哈根源、鮮明個性與舞台能量聞名。",
+      "website": "https://ygfamily.com/en/artists/list"
+    },
+    {
+      "id": "starship",
+      "name": "STARSHIP Entertainment",
+      "family": "獨立廠牌",
+      "summary": "旗下音樂橫跨 MONSTA X、宇宙少女、CRAVITY 與 IVE。",
+      "website": "https://www.starship-ent.com/musician"
+    },
+    {
+      "id": "cube",
+      "name": "CUBE Entertainment",
+      "family": "獨立廠牌",
+      "summary": "以創作與多元風格留下鮮明印記的娛樂公司。",
+      "website": "https://cubeent.co.jp/artist-taxonomy/artist/"
+    },
+    {
+      "id": "kq",
+      "name": "KQ Entertainment",
+      "family": "獨立廠牌",
+      "summary": "以 ATEEZ 與 xikers 的高能量舞台受到關注。",
+      "website": "https://kqent.com/"
+    },
+    {
+      "id": "rbw",
+      "name": "RBW",
+      "family": "獨立廠牌",
+      "summary": "從歌唱實力到樂器演奏，呈現多樣的音樂面貌。",
+      "website": "https://www.rbbridge.com/"
+    },
+    {
+      "id": "fnc",
+      "name": "FNC Entertainment",
+      "family": "獨立廠牌",
+      "summary": "結合偶像樂團與舞蹈團體的音樂公司。",
+      "website": "https://www.fncent.com/"
+    },
+    {
+      "id": "woollim",
+      "name": "Woollim Entertainment",
+      "family": "獨立廠牌",
+      "summary": "從 INFINITE 到新世代團體，累積豐富的偶像音樂作品。",
+      "website": "https://www.woolliment.com/"
+    },
+    {
+      "id": "dsp",
+      "name": "DSP Media",
+      "family": "RBW 旗下",
+      "summary": "見證 KARA 的韓流足跡與 KARD 的男女混聲特色。",
+      "website": "https://www.dspmedia.co.kr/"
+    },
+    {
+      "id": "ist",
+      "name": "IST Entertainment",
+      "family": "獨立廠牌",
+      "summary": "本館也收錄曾以其他公司名稱出道的相關團體。",
+      "website": "https://www.istent.co.kr/"
+    },
+    {
+      "id": "wakeone",
+      "name": "WAKEONE",
+      "family": "CJ ENM",
+      "summary": "將選秀舞台上的相遇，延伸為團體的音樂旅程。",
+      "website": "https://wake-one.com/"
+    },
+    {
+      "id": "highup",
+      "name": "High Up Entertainment",
+      "family": "獨立廠牌",
+      "summary": "由製作人創立，STAYC 的出道公司。",
+      "website": "https://www.highup-ent.com/"
+    },
+    {
+      "id": "dreamcatcher",
+      "name": "Dreamcatcher Company",
+      "family": "獨立廠牌",
+      "summary": "前身為 Happyface Entertainment，以搖滾融合女團音樂。",
+      "website": "https://www.dreamcatcher.kr/"
+    },
+    {
+      "id": "wm",
+      "name": "WM Entertainment",
+      "family": "RBW 旗下",
+      "summary": "以 B1A4、OH MY GIRL 與 ONF 的不同色彩拓展音樂世界。",
+      "website": "https://www.wment.co.kr/"
+    },
+    {
+      "id": "fantagio",
+      "name": "Fantagio",
+      "family": "獨立廠牌",
+      "summary": "結合演員與歌手培育，ASTRO 的出道公司。",
+      "website": "https://www.fantagio.kr/"
+    },
+    {
+      "id": "modhaus",
+      "name": "MODHAUS",
+      "family": "獨立廠牌",
+      "summary": "以 tripleS 與 ARTMS 等企劃探索粉絲參與的可能性。",
+      "website": "https://www.mod-haus.com/"
+    },
+    {
+      "id": "blockberry",
+      "name": "BlockBerry Creative",
+      "family": "歷史廠牌",
+      "summary": "收錄 LOONA 的出道歷史；不代表成員現行經紀關係。",
+      "website": "https://en.wikipedia.org/wiki/Blockberry_Creative"
+    },
+    {
+      "id": "ts",
+      "name": "TS Entertainment",
+      "family": "歷史廠牌",
+      "summary": "收錄 B.A.P 的出道歷史；不代表現行經紀關係。",
+      "website": "https://en.wikipedia.org/wiki/TS_Entertainment"
+    },
+    {
+      "id": "mbk",
+      "name": "MBK Entertainment",
+      "family": "歷史廠牌",
+      "summary": "包含前身 Core Contents Media 時期的經典團體。",
+      "website": "https://en.wikipedia.org/wiki/MBK_Entertainment"
+    },
+    {
+      "id": "s2",
+      "name": "S2 Entertainment",
+      "family": "獨立廠牌",
+      "summary": "KISS OF LIFE 的出道公司。",
+      "website": "https://s2ent.co.kr/"
+    },
+    {
+      "id": "bpm",
+      "name": "Big Planet Made",
+      "family": "獨立廠牌",
+      "summary": "VIVIZ 的出道公司。",
+      "website": "https://www.bpment.co.kr/"
+    },
+    {
+      "id": "mystic",
+      "name": "MYSTIC STORY",
+      "family": "獨立廠牌",
+      "summary": "Billlie 的出道公司，以多元音樂企劃探索創作。",
+      "website": "https://www.mysticstory.net/"
+    },
+    {
+      "id": "yuehua",
+      "name": "Yuehua Entertainment",
+      "family": "獨立廠牌",
+      "summary": "以跨國藝人培育與團體音樂企劃聞名。",
+      "website": "https://www.yhfamily.co.kr/"
+    },
+    {
+      "id": "mld",
+      "name": "MLD Entertainment",
+      "family": "獨立廠牌",
+      "summary": "MOMOLAND 的出道公司，前身為 Duble Kick Company。",
+      "website": "https://en.wikipedia.org/wiki/MLD_Entertainment"
+    },
+    {
+      "id": "attrakt",
+      "name": "ATTRAKT",
+      "family": "獨立廠牌",
+      "summary": "FIFTY FIFTY 的出道公司。",
+      "website": "https://www.theattrakt.com/"
+    },
+    {
+      "id": "top",
+      "name": "TOP Media",
+      "family": "獨立廠牌",
+      "summary": "TEEN TOP 與 UP10TION 的出道公司。",
+      "website": "https://www.itopgroup.com/"
+    },
+    {
+      "id": "jellyfish",
+      "name": "Jellyfish Entertainment",
+      "family": "獨立廠牌",
+      "summary": "VIXX 與 gugudan 的出道公司。",
+      "website": "https://www.jelly-fish.co.kr/"
+    },
+    {
+      "id": "stone",
+      "name": "Stone Music / Off the Record",
+      "family": "CJ ENM",
+      "summary": "收錄選秀限定團與 fromis_9 的早期廠牌沿革，並非現行合約名單。",
+      "website": "https://en.wikipedia.org/wiki/Stone_Music_Entertainment"
+    },
+    {
+      "id": "ymc",
+      "name": "YMC Entertainment",
+      "family": "歷史廠牌",
+      "summary": "I.O.I 與 Wanna One 早期活動的經紀公司。",
+      "website": "https://en.wikipedia.org/wiki/YMC_Entertainment"
+    },
+    {
+      "id": "pnation",
+      "name": "P NATION",
+      "family": "獨立廠牌",
+      "summary": "由 PSY 創立，TNX 的出道公司。",
+      "website": "https://www.pnation.com/"
+    },
+    {
+      "id": "banana",
+      "name": "Banana Culture / AB Entertainment",
+      "family": "歷史廠牌",
+      "summary": "收錄 EXID 從 AB Entertainment 出道的歷史。",
+      "website": "https://en.wikipedia.org/wiki/Banana_Culture"
+    },
+    {
+      "id": "brave",
+      "name": "Brave Entertainment",
+      "family": "獨立廠牌",
+      "summary": "製作人勇敢兄弟創立的公司；收錄 Brave Girls 的歷年成員。",
+      "website": "https://bravesound.com/"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g000",
+      "name": "BTS",
+      "koreanName": "방탄소년단",
+      "companyID": "bighit",
+      "debutYear": 2013,
+      "kind": "男團",
+      "fandom": "ARMY",
+      "wikipediaTitle": "BTS",
+      "memberNames": [
+        "RM",
+        "Jin",
+        "SUGA",
+        "j-hope",
+        "Jimin",
+        "V",
+        "Jung Kook"
+      ],
+      "summary": "融合嘻哈與流行，透過青春、成長與自我認同的主題與聽眾對話。",
+      "palette": 0
+    },
+    {
+      "id": "g001",
+      "name": "TOMORROW X TOGETHER",
+      "koreanName": "투모로우바이투게더",
+      "companyID": "bighit",
+      "debutYear": 2019,
+      "kind": "男團",
+      "fandom": "MOA",
+      "wikipediaTitle": "Tomorrow X Together",
+      "memberNames": [
+        "Soobin",
+        "Yeonjun",
+        "Beomgyu",
+        "Taehyun",
+        "Huening Kai"
+      ],
+      "summary": "用音樂描繪青春的相遇、迷惘與成長。",
+      "palette": 1
+    },
+    {
+      "id": "g002",
+      "name": "SEVENTEEN",
+      "koreanName": "세븐틴",
+      "companyID": "pledis",
+      "debutYear": 2015,
+      "kind": "男團",
+      "fandom": "CARAT",
+      "wikipediaTitle": "Seventeen (South Korean band)",
+      "memberNames": [
+        "S.Coups",
+        "Jeonghan",
+        "Joshua",
+        "Jun",
+        "Hoshi",
+        "Wonwoo",
+        "Woozi",
+        "DK",
+        "Mingyu",
+        "The8",
+        "Seungkwan",
+        "Vernon",
+        "Dino"
+      ],
+      "summary": "由演唱、嘻哈及表演小分隊交織出充滿默契的自製舞台。",
+      "palette": 2
+    },
+    {
+      "id": "g003",
+      "name": "TWS",
+      "koreanName": "투어스",
+      "companyID": "pledis",
+      "debutYear": 2024,
+      "kind": "男團",
+      "fandom": "42",
+      "wikipediaTitle": "TWS (group)",
+      "memberNames": [
+        "Shinyu",
+        "Dohoon",
+        "Youngjae",
+        "Hanjin",
+        "Jihoon",
+        "Kyungmin"
+      ],
+      "summary": "以清爽的青春敘事與輕快旋律展開音樂旅程。",
+      "palette": 3
+    },
+    {
+      "id": "g004",
+      "name": "ENHYPEN",
+      "koreanName": "엔하이픈",
+      "companyID": "belift",
+      "debutYear": 2020,
+      "kind": "男團",
+      "fandom": "ENGENE",
+      "wikipediaTitle": "Enhypen",
+      "memberNames": [
+        "Jungwon",
+        "Heeseung",
+        "Jay",
+        "Jake",
+        "Sunghoon",
+        "Sunoo",
+        "Ni-ki"
+      ],
+      "summary": "透過故事概念與整齊的舞蹈，連結彼此與世界。",
+      "palette": 4
+    },
+    {
+      "id": "g005",
+      "name": "ILLIT",
+      "koreanName": "아일릿",
+      "companyID": "belift",
+      "debutYear": 2024,
+      "kind": "女團",
+      "fandom": "GLLIT",
+      "wikipediaTitle": "Illit",
+      "memberNames": [
+        "Yunah",
+        "Minju",
+        "Moka",
+        "Wonhee",
+        "Iroha"
+      ],
+      "summary": "以夢幻旋律與日常少女想像打造輕盈的流行色彩。",
+      "palette": 5
+    },
+    {
+      "id": "g006",
+      "name": "LE SSERAFIM",
+      "koreanName": "르세라핌",
+      "companyID": "source",
+      "debutYear": 2022,
+      "kind": "女團",
+      "fandom": "FEARNOT",
+      "wikipediaTitle": "Le Sserafim",
+      "memberNames": [
+        "Sakura",
+        "Kim Chaewon",
+        "Huh Yunjin",
+        "Kazuha",
+        "Hong Eunchae",
+        "Kim Garam"
+      ],
+      "summary": "用無畏的態度與充滿力量的表演述說自己的選擇。",
+      "palette": 0
+    },
+    {
+      "id": "g007",
+      "name": "GFRIEND",
+      "koreanName": "여자친구",
+      "companyID": "source",
+      "debutYear": 2015,
+      "kind": "女團",
+      "fandom": "BUDDY",
+      "wikipediaTitle": "GFriend",
+      "memberNames": [
+        "Sowon",
+        "Yerin",
+        "Eunha",
+        "Yuju",
+        "SinB",
+        "Umji"
+      ],
+      "summary": "以抒情旋律、精準舞蹈與青春校園意象受到喜愛。",
+      "palette": 1
+    },
+    {
+      "id": "g008",
+      "name": "NewJeans",
+      "koreanName": "뉴진스",
+      "companyID": "ador",
+      "debutYear": 2022,
+      "kind": "女團",
+      "fandom": "Bunnies",
+      "wikipediaTitle": "NewJeans",
+      "memberNames": [
+        "Minji",
+        "Hanni",
+        "Danielle",
+        "Haerin",
+        "Hyein"
+      ],
+      "summary": "以自然的青春視覺與 R&B、舞曲元素帶來鮮明辨識度。",
+      "palette": 2
+    },
+    {
+      "id": "g009",
+      "name": "BOYNEXTDOOR",
+      "koreanName": "보이넥스트도어",
+      "companyID": "koz",
+      "debutYear": 2023,
+      "kind": "男團",
+      "fandom": "ONEDOOR",
+      "wikipediaTitle": "BoyNextDoor",
+      "memberNames": [
+        "Sungho",
+        "Riwoo",
+        "Jaehyun",
+        "Taesan",
+        "Leehan",
+        "Woonhak"
+      ],
+      "summary": "把生活中的小故事唱成有個性的青春歌曲。",
+      "palette": 3
+    },
+    {
+      "id": "g010",
+      "name": "aespa",
+      "koreanName": "에스파",
+      "companyID": "sm",
+      "debutYear": 2020,
+      "kind": "女團",
+      "fandom": "MY",
+      "wikipediaTitle": "Aespa",
+      "memberNames": [
+        "Karina",
+        "Giselle",
+        "Winter",
+        "Ningning"
+      ],
+      "summary": "以虛實交錯的概念與電子音色建立獨特的音樂世界。",
+      "palette": 4
+    },
+    {
+      "id": "g011",
+      "name": "Red Velvet",
+      "koreanName": "레드벨벳",
+      "companyID": "sm",
+      "debutYear": 2014,
+      "kind": "女團",
+      "fandom": "ReVeluv",
+      "wikipediaTitle": "Red Velvet (group)",
+      "memberNames": [
+        "Irene",
+        "Seulgi",
+        "Wendy",
+        "Joy",
+        "Yeri"
+      ],
+      "summary": "在明亮活潑的 Red 與細膩成熟的 Velvet 之間自由切換。",
+      "palette": 5
+    },
+    {
+      "id": "g012",
+      "name": "SHINee",
+      "koreanName": "샤이니",
+      "companyID": "sm",
+      "debutYear": 2008,
+      "kind": "男團",
+      "fandom": "SHINee World",
+      "wikipediaTitle": "Shinee",
+      "memberNames": [
+        "Onew",
+        "Jonghyun",
+        "Key",
+        "Minho",
+        "Taemin"
+      ],
+      "summary": "以當代流行、細膩歌唱與創新表演留下跨世代作品。",
+      "palette": 0
+    },
+    {
+      "id": "g013",
+      "name": "EXO",
+      "koreanName": "엑소",
+      "companyID": "sm",
+      "debutYear": 2012,
+      "kind": "男團",
+      "fandom": "EXO-L",
+      "wikipediaTitle": "Exo",
+      "memberNames": [
+        "Xiumin",
+        "Suho",
+        "Lay",
+        "Baekhyun",
+        "Chen",
+        "Chanyeol",
+        "D.O.",
+        "Kai",
+        "Sehun",
+        "Kris",
+        "Luhan",
+        "Tao"
+      ],
+      "summary": "結合宏大概念、層次和聲與充滿張力的舞台。",
+      "palette": 1
+    },
+    {
+      "id": "g014",
+      "name": "Girls’ Generation",
+      "koreanName": "소녀시대",
+      "companyID": "sm",
+      "debutYear": 2007,
+      "kind": "女團",
+      "fandom": "SONE",
+      "wikipediaTitle": "Girls' Generation",
+      "memberNames": [
+        "Taeyeon",
+        "Sunny",
+        "Tiffany",
+        "Hyoyeon",
+        "Yuri",
+        "Sooyoung",
+        "Yoona",
+        "Seohyun",
+        "Jessica"
+      ],
+      "summary": "從經典舞曲到多樣化作品，見證韓流女團的發展。",
+      "palette": 2
+    },
+    {
+      "id": "g015",
+      "name": "SUPER JUNIOR",
+      "koreanName": "슈퍼주니어",
+      "companyID": "sm",
+      "debutYear": 2005,
+      "kind": "男團",
+      "fandom": "E.L.F.",
+      "wikipediaTitle": "Super Junior",
+      "memberNames": [
+        "Leeteuk",
+        "Heechul",
+        "Yesung",
+        "Shindong",
+        "Sungmin",
+        "Eunhyuk",
+        "Siwon",
+        "Donghae",
+        "Ryeowook",
+        "Kyuhyun",
+        "Hangeng",
+        "Kibum",
+        "Kangin"
+      ],
+      "summary": "以音樂、綜藝與小分隊展現豐富的團體可能性。",
+      "palette": 3
+    },
+    {
+      "id": "g016",
+      "name": "TVXQ!",
+      "koreanName": "동방신기",
+      "companyID": "sm",
+      "debutYear": 2003,
+      "kind": "男團",
+      "fandom": "Cassiopeia",
+      "wikipediaTitle": "TVXQ",
+      "memberNames": [
+        "U-Know Yunho",
+        "Max Changmin",
+        "Jaejoong",
+        "Yoochun",
+        "Junsu"
+      ],
+      "summary": "以強勁現場表演與和聲，寫下早期韓流的重要篇章。",
+      "palette": 4
+    },
+    {
+      "id": "g017",
+      "name": "f(x)",
+      "koreanName": "에프엑스",
+      "companyID": "sm",
+      "debutYear": 2009,
+      "kind": "女團",
+      "fandom": "MeU",
+      "wikipediaTitle": "F(x) (group)",
+      "memberNames": [
+        "Victoria",
+        "Amber",
+        "Luna",
+        "Krystal",
+        "Sulli"
+      ],
+      "summary": "以實驗流行與電子舞曲，留下獨樹一格的音樂風格。",
+      "palette": 5
+    },
+    {
+      "id": "g018",
+      "name": "NCT 127",
+      "koreanName": "엔시티 127",
+      "companyID": "sm",
+      "debutYear": 2016,
+      "kind": "男團",
+      "fandom": "NCTzen",
+      "wikipediaTitle": "NCT 127",
+      "memberNames": [
+        "Taeyong",
+        "Johnny",
+        "Yuta",
+        "Doyoung",
+        "Jaehyun",
+        "Jungwoo",
+        "Mark",
+        "Haechan",
+        "Taeil",
+        "Winwin"
+      ],
+      "summary": "以首爾的經度命名，探索節奏強烈的都市音樂。",
+      "palette": 0
+    },
+    {
+      "id": "g019",
+      "name": "NCT DREAM",
+      "koreanName": "엔시티 드림",
+      "companyID": "sm",
+      "debutYear": 2016,
+      "kind": "男團",
+      "fandom": "NCTzen",
+      "wikipediaTitle": "NCT Dream",
+      "memberNames": [
+        "Mark",
+        "Renjun",
+        "Jeno",
+        "Haechan",
+        "Jaemin",
+        "Chenle",
+        "Jisung"
+      ],
+      "summary": "從青春少年敘事一路成長，展現明亮與成熟的多面性。",
+      "palette": 1
+    },
+    {
+      "id": "g020",
+      "name": "WayV",
+      "koreanName": "威神V",
+      "companyID": "sm",
+      "debutYear": 2019,
+      "kind": "男團",
+      "fandom": "WayZenNi",
+      "wikipediaTitle": "WayV",
+      "memberNames": [
+        "Kun",
+        "Ten",
+        "Winwin",
+        "Xiaojun",
+        "Hendery",
+        "Yangyang",
+        "Lucas"
+      ],
+      "summary": "以華語流行與舞台表演連結不同文化的聽眾。",
+      "palette": 2
+    },
+    {
+      "id": "g021",
+      "name": "RIIZE",
+      "koreanName": "라이즈",
+      "companyID": "sm",
+      "debutYear": 2023,
+      "kind": "男團",
+      "fandom": "BRIIZE",
+      "wikipediaTitle": "Riize",
+      "memberNames": [
+        "Shotaro",
+        "Eunseok",
+        "Sungchan",
+        "Wonbin",
+        "Sohee",
+        "Anton",
+        "Seunghan"
+      ],
+      "summary": "以一起成長、實現夢想為概念，唱出情感流行的故事。",
+      "palette": 3
+    },
+    {
+      "id": "g022",
+      "name": "NCT WISH",
+      "koreanName": "엔시티 위시",
+      "companyID": "sm",
+      "debutYear": 2024,
+      "kind": "男團",
+      "fandom": "NCTzen",
+      "wikipediaTitle": "NCT Wish",
+      "memberNames": [
+        "Sion",
+        "Riku",
+        "Yushi",
+        "Jaehee",
+        "Ryo",
+        "Sakuya"
+      ],
+      "summary": "以清新的能量與夢想主題，開啟 NCT 的全新篇章。",
+      "palette": 4
+    },
+    {
+      "id": "g023",
+      "name": "TWICE",
+      "koreanName": "트와이스",
+      "companyID": "jyp",
+      "debutYear": 2015,
+      "kind": "女團",
+      "fandom": "ONCE",
+      "wikipediaTitle": "Twice",
+      "memberNames": [
+        "Nayeon",
+        "Jeongyeon",
+        "Momo",
+        "Sana",
+        "Jihyo",
+        "Mina",
+        "Dahyun",
+        "Chaeyoung",
+        "Tzuyu"
+      ],
+      "summary": "從活潑舞曲到成熟流行，帶來充滿感染力的旋律。",
+      "palette": 5
+    },
+    {
+      "id": "g024",
+      "name": "Stray Kids",
+      "koreanName": "스트레이 키즈",
+      "companyID": "jyp",
+      "debutYear": 2018,
+      "kind": "男團",
+      "fandom": "STAY",
+      "wikipediaTitle": "Stray Kids",
+      "memberNames": [
+        "Bang Chan",
+        "Lee Know",
+        "Changbin",
+        "Hyunjin",
+        "Han",
+        "Felix",
+        "Seungmin",
+        "I.N",
+        "Woojin"
+      ],
+      "summary": "以成員參與創作的音樂與強烈節奏表達自己的聲音。",
+      "palette": 0
+    },
+    {
+      "id": "g025",
+      "name": "ITZY",
+      "koreanName": "있지",
+      "companyID": "jyp",
+      "debutYear": 2019,
+      "kind": "女團",
+      "fandom": "MIDZY",
+      "wikipediaTitle": "Itzy",
+      "memberNames": [
+        "Yeji",
+        "Lia",
+        "Ryujin",
+        "Chaeryeong",
+        "Yuna"
+      ],
+      "summary": "透過自信的歌詞與俐落舞蹈，傳遞做自己的態度。",
+      "palette": 1
+    },
+    {
+      "id": "g026",
+      "name": "NMIXX",
+      "koreanName": "엔믹스",
+      "companyID": "jyp",
+      "debutYear": 2022,
+      "kind": "女團",
+      "fandom": "NSWER",
+      "wikipediaTitle": "Nmixx",
+      "memberNames": [
+        "Lily",
+        "Haewon",
+        "Sullyoon",
+        "Bae",
+        "Jiwoo",
+        "Kyujin",
+        "Jinni"
+      ],
+      "summary": "以變化豐富的曲風、現場歌唱與舞台實力探索 MIX。",
+      "palette": 2
+    },
+    {
+      "id": "g027",
+      "name": "DAY6",
+      "koreanName": "데이식스",
+      "companyID": "jyp",
+      "debutYear": 2015,
+      "kind": "樂團",
+      "fandom": "My Day",
+      "wikipediaTitle": "Day6",
+      "memberNames": [
+        "Sungjin",
+        "Young K",
+        "Wonpil",
+        "Dowoon",
+        "Jae",
+        "Junhyeok"
+      ],
+      "summary": "將生活裡的情緒寫成歌曲，以樂器與歌聲陪伴聽眾。",
+      "palette": 3
+    },
+    {
+      "id": "g028",
+      "name": "2PM",
+      "koreanName": "투피엠",
+      "companyID": "jyp",
+      "debutYear": 2008,
+      "kind": "男團",
+      "fandom": "HOTTEST",
+      "wikipediaTitle": "2PM",
+      "memberNames": [
+        "Jun. K",
+        "Nichkhun",
+        "Taecyeon",
+        "Wooyoung",
+        "Junho",
+        "Chansung",
+        "Jay Park"
+      ],
+      "summary": "以充滿力量的舞台與成熟魅力展現不同面貌。",
+      "palette": 4
+    },
+    {
+      "id": "g029",
+      "name": "GOT7",
+      "koreanName": "갓세븐",
+      "companyID": "jyp",
+      "debutYear": 2014,
+      "kind": "男團",
+      "fandom": "I GOT7",
+      "wikipediaTitle": "Got7",
+      "memberNames": [
+        "Jay B",
+        "Mark",
+        "Jackson",
+        "Jinyoung",
+        "Youngjae",
+        "BamBam",
+        "Yugyeom"
+      ],
+      "summary": "結合多國成員的色彩，以歌唱、舞蹈與默契連結世界。",
+      "palette": 5
+    },
+    {
+      "id": "g030",
+      "name": "Wonder Girls",
+      "koreanName": "원더걸스",
+      "companyID": "jyp",
+      "debutYear": 2007,
+      "kind": "女團",
+      "fandom": "Wonderful",
+      "wikipediaTitle": "Wonder Girls",
+      "memberNames": [
+        "Sunye",
+        "Yeeun",
+        "Sunmi",
+        "Sohee",
+        "Yubin",
+        "Hyerim",
+        "Hyuna"
+      ],
+      "summary": "以復古流行留下經典，也曾以樂團形式拓展音樂風格。",
+      "palette": 0
+    },
+    {
+      "id": "g031",
+      "name": "miss A",
+      "koreanName": "미쓰에이",
+      "companyID": "jyp",
+      "debutYear": 2010,
+      "kind": "女團",
+      "fandom": "Say A",
+      "wikipediaTitle": "Miss A",
+      "memberNames": [
+        "Fei",
+        "Jia",
+        "Min",
+        "Suzy"
+      ],
+      "summary": "以率性態度、鮮明節奏與舞台表演受到關注。",
+      "palette": 1
+    },
+    {
+      "id": "g032",
+      "name": "Xdinary Heroes",
+      "koreanName": "엑스디너리 히어로즈",
+      "companyID": "jyp",
+      "debutYear": 2021,
+      "kind": "樂團",
+      "fandom": "Villains",
+      "wikipediaTitle": "Xdinary Heroes",
+      "memberNames": [
+        "Gunil",
+        "Jungsu",
+        "Gaon",
+        "O.de",
+        "Jun Han",
+        "Jooyeon"
+      ],
+      "summary": "以搖滾能量與樂器演奏探索平凡人也能成為英雄的想像。",
+      "palette": 2
+    },
+    {
+      "id": "g033",
+      "name": "BLACKPINK",
+      "koreanName": "블랙핑크",
+      "companyID": "yg",
+      "debutYear": 2016,
+      "kind": "女團",
+      "fandom": "BLINK",
+      "wikipediaTitle": "Blackpink",
+      "memberNames": [
+        "Jisoo",
+        "Jennie",
+        "Rosé",
+        "Lisa"
+      ],
+      "summary": "結合流行與嘻哈，呈現鮮明音色及充滿氣勢的舞台。",
+      "palette": 3
+    },
+    {
+      "id": "g034",
+      "name": "BIGBANG",
+      "koreanName": "빅뱅",
+      "companyID": "yg",
+      "debutYear": 2006,
+      "kind": "男團",
+      "fandom": "V.I.P",
+      "wikipediaTitle": "BigBang (South Korean band)",
+      "memberNames": [
+        "G-Dragon",
+        "Taeyang",
+        "Daesung",
+        "T.O.P",
+        "Seungri"
+      ],
+      "summary": "以成員創作與鮮明個人風格，在韓流歷史留下重要足跡。",
+      "palette": 4
+    },
+    {
+      "id": "g035",
+      "name": "2NE1",
+      "koreanName": "투애니원",
+      "companyID": "yg",
+      "debutYear": 2009,
+      "kind": "女團",
+      "fandom": "Blackjack",
+      "wikipediaTitle": "2NE1",
+      "memberNames": [
+        "CL",
+        "Bom",
+        "Dara",
+        "Minzy"
+      ],
+      "summary": "用強烈風格與充滿個性的音樂，拓展女團表演的想像。",
+      "palette": 5
+    },
+    {
+      "id": "g036",
+      "name": "WINNER",
+      "koreanName": "위너",
+      "companyID": "yg",
+      "debutYear": 2014,
+      "kind": "男團",
+      "fandom": "INNER CIRCLE",
+      "wikipediaTitle": "Winner (band)",
+      "memberNames": [
+        "Jinu",
+        "Hoony",
+        "Mino",
+        "Yoon",
+        "Taehyun"
+      ],
+      "summary": "以不同音色與創作風格，帶來多樣的流行歌曲。",
+      "palette": 0
+    },
+    {
+      "id": "g037",
+      "name": "iKON",
+      "koreanName": "아이콘",
+      "companyID": "yg",
+      "debutYear": 2015,
+      "kind": "男團",
+      "fandom": "iKONIC",
+      "wikipediaTitle": "IKon",
+      "memberNames": [
+        "Jay",
+        "Song",
+        "Bobby",
+        "DK",
+        "Ju-ne",
+        "Chan",
+        "B.I"
+      ],
+      "summary": "從嘻哈舞台到抒情旋律，以群體能量與情感敘事相遇。",
+      "palette": 1
+    },
+    {
+      "id": "g038",
+      "name": "TREASURE",
+      "koreanName": "트레저",
+      "companyID": "yg",
+      "debutYear": 2020,
+      "kind": "男團",
+      "fandom": "TREASURE MAKER",
+      "wikipediaTitle": "Treasure (band)",
+      "memberNames": [
+        "Choi Hyunsuk",
+        "Jihoon",
+        "Yoshi",
+        "Junkyu",
+        "Yoon Jaehyuk",
+        "Asahi",
+        "Doyoung",
+        "Haruto",
+        "Park Jeongwoo",
+        "So Junghwan",
+        "Mashiho",
+        "Bang Yedam"
+      ],
+      "summary": "以多元成員色彩、青春能量與舞台默契展開旅程。",
+      "palette": 2
+    },
+    {
+      "id": "g039",
+      "name": "BABYMONSTER",
+      "koreanName": "베이비몬스터",
+      "companyID": "yg",
+      "debutYear": 2023,
+      "kind": "女團",
+      "fandom": "MONSTIEZ",
+      "wikipediaTitle": "Babymonster",
+      "memberNames": [
+        "Ruka",
+        "Pharita",
+        "Asa",
+        "Ahyeon",
+        "Rami",
+        "Rora",
+        "Chiquita"
+      ],
+      "summary": "結合跨國成員、歌唱與饒舌，呈現新世代的舞台能量。",
+      "palette": 3
+    },
+    {
+      "id": "g040",
+      "name": "IVE",
+      "koreanName": "아이브",
+      "companyID": "starship",
+      "debutYear": 2021,
+      "kind": "女團",
+      "fandom": "DIVE",
+      "wikipediaTitle": "Ive (group)",
+      "memberNames": [
+        "An Yujin",
+        "Gaeul",
+        "Rei",
+        "Jang Wonyoung",
+        "Liz",
+        "Leeseo"
+      ],
+      "summary": "以自我肯定與優雅風格，打造辨識度鮮明的流行歌曲。",
+      "palette": 4
+    },
+    {
+      "id": "g041",
+      "name": "MONSTA X",
+      "koreanName": "몬스타엑스",
+      "companyID": "starship",
+      "debutYear": 2015,
+      "kind": "男團",
+      "fandom": "MONBEBE",
+      "wikipediaTitle": "Monsta X",
+      "memberNames": [
+        "Shownu",
+        "Minhyuk",
+        "Kihyun",
+        "Hyungwon",
+        "Joohoney",
+        "I.M",
+        "Wonho"
+      ],
+      "summary": "結合強烈節奏、饒舌與厚實歌聲的多層次舞台。",
+      "palette": 5
+    },
+    {
+      "id": "g042",
+      "name": "CRAVITY",
+      "koreanName": "크래비티",
+      "companyID": "starship",
+      "debutYear": 2020,
+      "kind": "男團",
+      "fandom": "LUVITY",
+      "wikipediaTitle": "Cravity",
+      "memberNames": [
+        "Serim",
+        "Allen",
+        "Jungmo",
+        "Woobin",
+        "Wonjin",
+        "Minhee",
+        "Hyeongjun",
+        "Taeyoung",
+        "Seongmin"
+      ],
+      "summary": "用青春活力與整齊表演傳遞團體的獨特引力。",
+      "palette": 0
+    },
+    {
+      "id": "g043",
+      "name": "WJSN",
+      "koreanName": "우주소녀",
+      "companyID": "starship",
+      "debutYear": 2016,
+      "kind": "女團",
+      "fandom": "UJUNG",
+      "wikipediaTitle": "WJSN",
+      "memberNames": [
+        "Seola",
+        "Xuan Yi",
+        "Bona",
+        "Exy",
+        "Soobin",
+        "Luda",
+        "Dawon",
+        "Eunseo",
+        "Cheng Xiao",
+        "Mei Qi",
+        "Yeoreum",
+        "Dayoung",
+        "Yeonjung"
+      ],
+      "summary": "以宇宙與夢幻意象，編織多層次的女團音樂。",
+      "palette": 1
+    },
+    {
+      "id": "g044",
+      "name": "SISTAR",
+      "koreanName": "씨스타",
+      "companyID": "starship",
+      "debutYear": 2010,
+      "kind": "女團",
+      "fandom": "STAR1",
+      "wikipediaTitle": "Sistar",
+      "memberNames": [
+        "Hyolyn",
+        "Bora",
+        "Soyou",
+        "Dasom"
+      ],
+      "summary": "以有力歌聲與夏日舞曲成為許多聽眾的季節記憶。",
+      "palette": 2
+    },
+    {
+      "id": "g045",
+      "name": "i-dle",
+      "koreanName": "아이들",
+      "companyID": "cube",
+      "debutYear": 2018,
+      "kind": "女團",
+      "fandom": "NEVERLAND",
+      "wikipediaTitle": "I-dle",
+      "memberNames": [
+        "Miyeon",
+        "Minnie",
+        "Soyeon",
+        "Yuqi",
+        "Shuhua",
+        "Soojin"
+      ],
+      "summary": "原名 (G)I-DLE，以創作與概念主導權塑造鮮明的團體身份。",
+      "palette": 3
+    },
+    {
+      "id": "g046",
+      "name": "BTOB",
+      "koreanName": "비투비",
+      "companyID": "cube",
+      "debutYear": 2012,
+      "kind": "男團",
+      "fandom": "MELODY",
+      "wikipediaTitle": "BtoB (band)",
+      "memberNames": [
+        "Eunkwang",
+        "Minhyuk",
+        "Changsub",
+        "Hyunsik",
+        "Peniel",
+        "Sungjae",
+        "Ilhoon"
+      ],
+      "summary": "以豐富和聲、細膩抒情與親切魅力陪伴聽眾。",
+      "palette": 4
+    },
+    {
+      "id": "g047",
+      "name": "PENTAGON",
+      "koreanName": "펜타곤",
+      "companyID": "cube",
+      "debutYear": 2016,
+      "kind": "男團",
+      "fandom": "UNIVERSE",
+      "wikipediaTitle": "Pentagon (South Korean band)",
+      "memberNames": [
+        "Jinho",
+        "Hui",
+        "Hongseok",
+        "Shinwon",
+        "Yeo One",
+        "Yanan",
+        "Yuto",
+        "Kino",
+        "Wooseok",
+        "Dawn"
+      ],
+      "summary": "以成員創作與不同聲線，探索多元的音樂表情。",
+      "palette": 5
+    },
+    {
+      "id": "g048",
+      "name": "LIGHTSUM",
+      "koreanName": "라잇썸",
+      "companyID": "cube",
+      "debutYear": 2021,
+      "kind": "女團",
+      "fandom": "SUMIT",
+      "wikipediaTitle": "Lightsum",
+      "memberNames": [
+        "Sangah",
+        "Chowon",
+        "Nayoung",
+        "Hina",
+        "Juhyeon",
+        "Yujeong",
+        "Huiyeon",
+        "Jian"
+      ],
+      "summary": "以明亮能量與節奏感，展現新世代少女的色彩。",
+      "palette": 0
+    },
+    {
+      "id": "g049",
+      "name": "ATEEZ",
+      "koreanName": "에이티즈",
+      "companyID": "kq",
+      "debutYear": 2018,
+      "kind": "男團",
+      "fandom": "ATINY",
+      "wikipediaTitle": "Ateez",
+      "memberNames": [
+        "Hongjoong",
+        "Seonghwa",
+        "Yunho",
+        "Yeosang",
+        "San",
+        "Mingi",
+        "Wooyoung",
+        "Jongho"
+      ],
+      "summary": "以冒險敘事與充滿爆發力的表演，在舞台上展開航行。",
+      "palette": 1
+    },
+    {
+      "id": "g050",
+      "name": "xikers",
+      "koreanName": "싸이커스",
+      "companyID": "kq",
+      "debutYear": 2023,
+      "kind": "男團",
+      "fandom": "road𝓨",
+      "wikipediaTitle": "Xikers",
+      "memberNames": [
+        "Minjae",
+        "Junmin",
+        "Sumin",
+        "Jinsik",
+        "Hyunwoo",
+        "Junghoon",
+        "Seeun",
+        "Yujun",
+        "Hunter",
+        "Yechan"
+      ],
+      "summary": "以充滿動感的音樂和青春冒險概念尋找自己的座標。",
+      "palette": 2
+    },
+    {
+      "id": "g051",
+      "name": "MAMAMOO",
+      "koreanName": "마마무",
+      "companyID": "rbw",
+      "debutYear": 2014,
+      "kind": "女團",
+      "fandom": "MOOMOO",
+      "wikipediaTitle": "Mamamoo",
+      "memberNames": [
+        "Solar",
+        "Moonbyul",
+        "Wheein",
+        "Hwasa"
+      ],
+      "summary": "以各具特色的音色、和聲與自在的舞台表現受到喜愛。",
+      "palette": 3
+    },
+    {
+      "id": "g052",
+      "name": "ONEUS",
+      "koreanName": "원어스",
+      "companyID": "rbw",
+      "debutYear": 2019,
+      "kind": "男團",
+      "fandom": "TO MOON",
+      "wikipediaTitle": "Oneus",
+      "memberNames": [
+        "Seoho",
+        "Leedo",
+        "Keonhee",
+        "Hwanwoong",
+        "Xion",
+        "Ravn"
+      ],
+      "summary": "以敘事概念與細膩的舞蹈表演，探索多樣風格。",
+      "palette": 4
+    },
+    {
+      "id": "g053",
+      "name": "PURPLE KISS",
+      "koreanName": "퍼플키스",
+      "companyID": "rbw",
+      "debutYear": 2021,
+      "kind": "女團",
+      "fandom": "PLORY",
+      "wikipediaTitle": "Purple Kiss",
+      "memberNames": [
+        "Na Goeun",
+        "Dosie",
+        "Ireh",
+        "Yuki",
+        "Chaein",
+        "Swan",
+        "Park Jieun"
+      ],
+      "summary": "結合多樣音色、創作與奇幻概念的團體。",
+      "palette": 5
+    },
+    {
+      "id": "g054",
+      "name": "P1Harmony",
+      "koreanName": "피원하모니",
+      "companyID": "fnc",
+      "debutYear": 2020,
+      "kind": "男團",
+      "fandom": "P1ece",
+      "wikipediaTitle": "P1Harmony",
+      "memberNames": [
+        "Keeho",
+        "Theo",
+        "Jiung",
+        "Intak",
+        "Soul",
+        "Jongseob"
+      ],
+      "summary": "以嘻哈節奏與青春態度，在音樂裡尋找和諧。",
+      "palette": 0
+    },
+    {
+      "id": "g055",
+      "name": "SF9",
+      "koreanName": "에스에프나인",
+      "companyID": "fnc",
+      "debutYear": 2016,
+      "kind": "男團",
+      "fandom": "FANTASY",
+      "wikipediaTitle": "SF9",
+      "memberNames": [
+        "Youngbin",
+        "Inseong",
+        "Jaeyoon",
+        "Dawon",
+        "Zuho",
+        "Yoo Taeyang",
+        "Hwiyoung",
+        "Chani",
+        "Rowoon"
+      ],
+      "summary": "以細緻舞蹈線條與成熟風格展現舞台魅力。",
+      "palette": 1
+    },
+    {
+      "id": "g056",
+      "name": "N.Flying",
+      "koreanName": "엔플라잉",
+      "companyID": "fnc",
+      "debutYear": 2015,
+      "kind": "樂團",
+      "fandom": "N.Fia",
+      "wikipediaTitle": "N.Flying",
+      "memberNames": [
+        "Lee Seunghyub",
+        "Cha Hun",
+        "Kim Jaehyun",
+        "Yoo Hweseung",
+        "Seo Dongsung",
+        "Kwon Kwangjin"
+      ],
+      "summary": "結合搖滾、饒舌與抒情，唱出日常生活的情緒。",
+      "palette": 2
+    },
+    {
+      "id": "g057",
+      "name": "CNBLUE",
+      "koreanName": "씨엔블루",
+      "companyID": "fnc",
+      "debutYear": 2010,
+      "kind": "樂團",
+      "fandom": "BOICE",
+      "wikipediaTitle": "CNBLUE",
+      "memberNames": [
+        "Jung Yonghwa",
+        "Kang Minhyuk",
+        "Lee Jungshin",
+        "Lee Jonghyun",
+        "Kwon Kwangjin"
+      ],
+      "summary": "以吉他聲響與旋律感鮮明的歌曲展現樂團色彩。 2009 年先於日本活動，2010 年在韓國正式出道。",
+      "palette": 3
+    },
+    {
+      "id": "g058",
+      "name": "INFINITE",
+      "koreanName": "인피니트",
+      "companyID": "woollim",
+      "debutYear": 2010,
+      "kind": "男團",
+      "fandom": "INSPIRIT",
+      "wikipediaTitle": "Infinite (group)",
+      "memberNames": [
+        "Sungkyu",
+        "Dongwoo",
+        "Woohyun",
+        "Sungyeol",
+        "L",
+        "Sungjong",
+        "Hoya"
+      ],
+      "summary": "以整齊舞蹈與富有戲劇感的旋律建立經典風格。",
+      "palette": 4
+    },
+    {
+      "id": "g059",
+      "name": "Lovelyz",
+      "koreanName": "러블리즈",
+      "companyID": "woollim",
+      "debutYear": 2014,
+      "kind": "女團",
+      "fandom": "Lovelinus",
+      "wikipediaTitle": "Lovelyz",
+      "memberNames": [
+        "Baby Soul",
+        "Yoo Jiae",
+        "Seo Jisoo",
+        "Lee Mijoo",
+        "Kei",
+        "Jin",
+        "Ryu Sujeong",
+        "Jeong Yein"
+      ],
+      "summary": "以清澈和聲與抒情旋律描繪少女情感。",
+      "palette": 5
+    },
+    {
+      "id": "g060",
+      "name": "KARA",
+      "koreanName": "카라",
+      "companyID": "dsp",
+      "debutYear": 2007,
+      "kind": "女團",
+      "fandom": "KAMILIA",
+      "wikipediaTitle": "Kara (South Korean group)",
+      "memberNames": [
+        "Park Gyuri",
+        "Han Seungyeon",
+        "Nicole",
+        "Kang Jiyoung",
+        "Heo Youngji",
+        "Goo Hara",
+        "Kim Sunghee"
+      ],
+      "summary": "以明亮舞曲與鮮明旋律，留下韓日兩地的韓流記憶。",
+      "palette": 0
+    },
+    {
+      "id": "g061",
+      "name": "KARD",
+      "koreanName": "카드",
+      "companyID": "dsp",
+      "debutYear": 2017,
+      "kind": "混聲團",
+      "fandom": "Hidden KARD",
+      "wikipediaTitle": "Kard (group)",
+      "memberNames": [
+        "J.Seph",
+        "BM",
+        "Somin",
+        "Jiwoo"
+      ],
+      "summary": "以男女混聲與舞曲節奏，呈現不同於一般偶像團體的組合。",
+      "palette": 1
+    },
+    {
+      "id": "g062",
+      "name": "Apink",
+      "koreanName": "에이핑크",
+      "companyID": "ist",
+      "debutYear": 2011,
+      "kind": "女團",
+      "fandom": "PANDA",
+      "wikipediaTitle": "Apink",
+      "memberNames": [
+        "Park Chorong",
+        "Yoon Bomi",
+        "Jung Eunji",
+        "Kim Namjoo",
+        "Oh Hayoung",
+        "Son Naeun",
+        "Hong Yookyung"
+      ],
+      "summary": "從清純抒情到成熟舞曲，與聽眾一起成長。",
+      "palette": 2
+    },
+    {
+      "id": "g063",
+      "name": "THE BOYZ",
+      "koreanName": "더보이즈",
+      "companyID": "ist",
+      "debutYear": 2017,
+      "kind": "男團",
+      "fandom": "THE B",
+      "wikipediaTitle": "The Boyz (South Korean band)",
+      "memberNames": [
+        "Sangyeon",
+        "Jacob",
+        "Younghoon",
+        "Hyunjae",
+        "Juyeon",
+        "Kevin",
+        "New",
+        "Q",
+        "Haknyeon",
+        "Sunwoo",
+        "Eric",
+        "Hwall"
+      ],
+      "summary": "以多人成員的舞台編排與概念表演展現團體能量。",
+      "palette": 3
+    },
+    {
+      "id": "g064",
+      "name": "ZEROBASEONE",
+      "koreanName": "제로베이스원",
+      "companyID": "wakeone",
+      "debutYear": 2023,
+      "kind": "男團",
+      "fandom": "ZEROSE",
+      "wikipediaTitle": "Zerobaseone",
+      "memberNames": [
+        "Sung Hanbin",
+        "Kim Jiwoong",
+        "Zhang Hao",
+        "Seok Matthew",
+        "Kim Taerae",
+        "Ricky",
+        "Kim Gyuvin",
+        "Park Gunwook",
+        "Han Yujin"
+      ],
+      "summary": "由選秀舞台相遇，以青春的第一步連結團體與粉絲。",
+      "palette": 4
+    },
+    {
+      "id": "g065",
+      "name": "Kep1er",
+      "koreanName": "케플러",
+      "companyID": "wakeone",
+      "debutYear": 2022,
+      "kind": "女團",
+      "fandom": "Kep1ian",
+      "wikipediaTitle": "Kep1er",
+      "memberNames": [
+        "Choi Yujin",
+        "Shen Xiaoting",
+        "Mashiro",
+        "Kim Chaehyun",
+        "Kim Dayeon",
+        "Hikaru",
+        "Huening Bahiyyih",
+        "Seo Youngeun",
+        "Kang Yeseo"
+      ],
+      "summary": "以多國成員的相遇與充滿力量的舞台展開探索。",
+      "palette": 5
+    },
+    {
+      "id": "g066",
+      "name": "STAYC",
+      "koreanName": "스테이씨",
+      "companyID": "highup",
+      "debutYear": 2020,
+      "kind": "女團",
+      "fandom": "SWITH",
+      "wikipediaTitle": "STAYC",
+      "memberNames": [
+        "Sumin",
+        "Sieun",
+        "Isa",
+        "Seeun",
+        "Yoon",
+        "J"
+      ],
+      "summary": "以鮮明音色與朗朗上口的流行旋律呈現青春魅力。",
+      "palette": 0
+    },
+    {
+      "id": "g067",
+      "name": "Dreamcatcher",
+      "koreanName": "드림캐쳐",
+      "companyID": "dreamcatcher",
+      "debutYear": 2017,
+      "kind": "女團",
+      "fandom": "InSomnia",
+      "wikipediaTitle": "Dreamcatcher (group)",
+      "memberNames": [
+        "JiU",
+        "SuA",
+        "Siyeon",
+        "Handong",
+        "Yoohyeon",
+        "Dami",
+        "Gahyun"
+      ],
+      "summary": "融合搖滾、奇幻故事與女團舞蹈，打造鮮明音樂世界。",
+      "palette": 1
+    },
+    {
+      "id": "g068",
+      "name": "OH MY GIRL",
+      "koreanName": "오마이걸",
+      "companyID": "wm",
+      "debutYear": 2015,
+      "kind": "女團",
+      "fandom": "Miracle",
+      "wikipediaTitle": "Oh My Girl",
+      "memberNames": [
+        "Hyojung",
+        "Mimi",
+        "YooA",
+        "Seunghee",
+        "Yubin",
+        "Arin",
+        "JinE",
+        "Jiho"
+      ],
+      "summary": "從夢幻意象到明亮舞曲，用細膩的情感堆疊團體色彩。",
+      "palette": 2
+    },
+    {
+      "id": "g069",
+      "name": "B1A4",
+      "koreanName": "비원에이포",
+      "companyID": "wm",
+      "debutYear": 2011,
+      "kind": "男團",
+      "fandom": "BANA",
+      "wikipediaTitle": "B1A4",
+      "memberNames": [
+        "CNU",
+        "Sandeul",
+        "Gongchan",
+        "Jinyoung",
+        "Baro"
+      ],
+      "summary": "以親切的青春敘事與創作旋律建立獨有風格。",
+      "palette": 3
+    },
+    {
+      "id": "g070",
+      "name": "ONF",
+      "koreanName": "온앤오프",
+      "companyID": "wm",
+      "debutYear": 2017,
+      "kind": "男團",
+      "fandom": "FUSE",
+      "wikipediaTitle": "ONF (band)",
+      "memberNames": [
+        "Hyojin",
+        "E-Tion",
+        "J-Us",
+        "Wyatt",
+        "MK",
+        "U",
+        "Laun"
+      ],
+      "summary": "以 ON 與 OFF 的雙面概念，帶來層次豐富的流行音樂。",
+      "palette": 4
+    },
+    {
+      "id": "g071",
+      "name": "ASTRO",
+      "koreanName": "아스트로",
+      "companyID": "fantagio",
+      "debutYear": 2016,
+      "kind": "男團",
+      "fandom": "AROHA",
+      "wikipediaTitle": "Astro (South Korean band)",
+      "memberNames": [
+        "MJ",
+        "Jinjin",
+        "Cha Eunwoo",
+        "Moonbin",
+        "Rocky",
+        "Yoon Sanha"
+      ],
+      "summary": "從清爽青春出發，以溫暖歌聲和明亮表演留下音樂記憶。",
+      "palette": 5
+    },
+    {
+      "id": "g072",
+      "name": "tripleS",
+      "koreanName": "트리플에스",
+      "companyID": "modhaus",
+      "debutYear": 2023,
+      "kind": "女團",
+      "fandom": "WAV",
+      "wikipediaTitle": "TripleS",
+      "memberNames": [
+        "Yoon Seoyeon",
+        "Jeong Hyerin",
+        "Lee Jiwoo",
+        "Kim Chaeyeon",
+        "Kim Yooyeon",
+        "Kim Soomin",
+        "Kim Nakyoung",
+        "Gong Yubin",
+        "Kaede",
+        "Seo Dahyun",
+        "Kotone",
+        "Kwak Yeonji",
+        "Nien",
+        "Park Sohyun",
+        "Xinyu",
+        "Mayu",
+        "Lynn",
+        "Joobin",
+        "Jeong Hayeon",
+        "Park Shion",
+        "Kim Chaewon",
+        "Sullin",
+        "Seoah",
+        "JiYeon"
+      ],
+      "summary": "以多人成員與不同小分隊的組合，探索粉絲參與的音樂企劃。",
+      "palette": 0
+    },
+    {
+      "id": "g073",
+      "name": "ARTMS",
+      "koreanName": "아르테미스",
+      "companyID": "modhaus",
+      "debutYear": 2024,
+      "kind": "女團",
+      "fandom": "OURII",
+      "wikipediaTitle": "Artms",
+      "memberNames": [
+        "Heejin",
+        "Haseul",
+        "Kim Lip",
+        "Jinsoul",
+        "Choerry"
+      ],
+      "summary": "由 LOONA 出身的成員開啟新的音樂篇章。",
+      "palette": 1
+    },
+    {
+      "id": "g074",
+      "name": "LOONA",
+      "koreanName": "이달의 소녀",
+      "companyID": "blockberry",
+      "debutYear": 2018,
+      "kind": "女團",
+      "fandom": "Orbit",
+      "wikipediaTitle": "Loona",
+      "memberNames": [
+        "Heejin",
+        "Hyunjin",
+        "Haseul",
+        "Yeojin",
+        "Vivi",
+        "Kim Lip",
+        "Jinsoul",
+        "Choerry",
+        "Yves",
+        "Chuu",
+        "Go Won",
+        "Hyeju"
+      ],
+      "summary": "透過成員單曲、小分隊與完整團體，構築龐大的月亮世界觀。",
+      "palette": 2
+    },
+    {
+      "id": "g075",
+      "name": "B.A.P",
+      "koreanName": "비에이피",
+      "companyID": "ts",
+      "debutYear": 2012,
+      "kind": "男團",
+      "fandom": "BABY",
+      "wikipediaTitle": "B.A.P (South Korean band)",
+      "memberNames": [
+        "Bang Yongguk",
+        "Himchan",
+        "Daehyun",
+        "Youngjae",
+        "Jongup",
+        "Zelo"
+      ],
+      "summary": "以強烈嘻哈節奏與社會議題敘事留下鮮明印象。",
+      "palette": 3
+    },
+    {
+      "id": "g076",
+      "name": "T-ara",
+      "koreanName": "티아라",
+      "companyID": "mbk",
+      "debutYear": 2009,
+      "kind": "女團",
+      "fandom": "QUEEN’S",
+      "wikipediaTitle": "T-ara",
+      "memberNames": [
+        "Qri",
+        "Eunjung",
+        "Hyomin",
+        "Jiyeon",
+        "Boram",
+        "Soyeon",
+        "Hwayoung",
+        "Areum",
+        "Jiae",
+        "Jiwon"
+      ],
+      "summary": "以復古舞曲與易記旋律，創造許多韓流經典歌曲。",
+      "palette": 4
+    },
+    {
+      "id": "g077",
+      "name": "KISS OF LIFE",
+      "koreanName": "키스오브라이프",
+      "companyID": "s2",
+      "debutYear": 2023,
+      "kind": "女團",
+      "fandom": "KISSY",
+      "wikipediaTitle": "Kiss of Life (group)",
+      "memberNames": [
+        "Julie",
+        "Natty",
+        "Belle",
+        "Haneul"
+      ],
+      "summary": "以各具特色的歌聲、R&B 音色與率性舞台展現個人魅力。",
+      "palette": 5
+    },
+    {
+      "id": "g078",
+      "name": "VIVIZ",
+      "koreanName": "비비지",
+      "companyID": "bpm",
+      "debutYear": 2022,
+      "kind": "女團",
+      "fandom": "Na.V",
+      "wikipediaTitle": "Viviz",
+      "memberNames": [
+        "Eunha",
+        "SinB",
+        "Umji"
+      ],
+      "summary": "由 GFRIEND 出身的三位成員延續默契，開啟新的音樂故事。",
+      "palette": 0
+    },
+    {
+      "id": "g079",
+      "name": "Billlie",
+      "koreanName": "빌리",
+      "companyID": "mystic",
+      "debutYear": 2021,
+      "kind": "女團",
+      "fandom": "Belllie’ve",
+      "wikipediaTitle": "Billlie",
+      "memberNames": [
+        "Moon Sua",
+        "Suhyeon",
+        "Haram",
+        "Tsuki",
+        "Sheon",
+        "Siyoon",
+        "Haruna"
+      ],
+      "summary": "透過奇幻敘事、細節概念與多變曲風展現獨特世界觀。",
+      "palette": 1
+    },
+    {
+      "id": "g080",
+      "name": "EVERGLOW",
+      "koreanName": "에버글로우",
+      "companyID": "yuehua",
+      "debutYear": 2019,
+      "kind": "女團",
+      "fandom": "FOREVER",
+      "wikipediaTitle": "Everglow",
+      "memberNames": [
+        "E:U",
+        "Sihyeon",
+        "Mia",
+        "Onda",
+        "Aisha",
+        "Yiren"
+      ],
+      "summary": "以氣勢鮮明的電子舞曲與強烈舞蹈展現團體能量。",
+      "palette": 2
+    },
+    {
+      "id": "g081",
+      "name": "MOMOLAND",
+      "koreanName": "모모랜드",
+      "companyID": "mld",
+      "debutYear": 2016,
+      "kind": "女團",
+      "fandom": "Merry-Go-Round",
+      "wikipediaTitle": "Momoland",
+      "memberNames": [
+        "Hyebin",
+        "Yeonwoo",
+        "Jane",
+        "Taeha",
+        "Nayun",
+        "Daisy",
+        "JooE",
+        "Ahin",
+        "Nancy"
+      ],
+      "summary": "以活潑節奏與趣味舞蹈，帶來充滿感染力的流行歌曲。",
+      "palette": 3
+    },
+    {
+      "id": "g082",
+      "name": "FIFTY FIFTY",
+      "koreanName": "피프티 피프티",
+      "companyID": "attrakt",
+      "debutYear": 2022,
+      "kind": "女團",
+      "fandom": "TWENY",
+      "wikipediaTitle": "Fifty Fifty (group)",
+      "memberNames": [
+        "Keena",
+        "Chanelle Moon",
+        "Yewon",
+        "Hana",
+        "Athena",
+        "Saena",
+        "Aran",
+        "Sio"
+      ],
+      "summary": "以旋律與音色受到關注；本館收錄不同時期的成員紀錄。",
+      "palette": 4
+    },
+    {
+      "id": "g083",
+      "name": "TEEN TOP",
+      "koreanName": "틴탑",
+      "companyID": "top",
+      "debutYear": 2010,
+      "kind": "男團",
+      "fandom": "ANGEL",
+      "wikipediaTitle": "Teen Top",
+      "memberNames": [
+        "Chunji",
+        "Niel",
+        "Ricky",
+        "Changjo",
+        "C.A.P",
+        "L.Joe"
+      ],
+      "summary": "以節奏俐落的舞曲與整齊表演建立團體風格。",
+      "palette": 5
+    },
+    {
+      "id": "g084",
+      "name": "UP10TION",
+      "koreanName": "업텐션",
+      "companyID": "top",
+      "debutYear": 2015,
+      "kind": "男團",
+      "fandom": "HONEY10",
+      "wikipediaTitle": "Up10tion",
+      "memberNames": [
+        "Jinhoo",
+        "Kuhn",
+        "Kogyeol",
+        "Wei",
+        "Bit-to",
+        "Wooshin",
+        "Sunyoul",
+        "Gyujin",
+        "Hwanhee",
+        "Xiao"
+      ],
+      "summary": "以多人成員的舞蹈編排與多樣聲線呈現舞台色彩。",
+      "palette": 0
+    },
+    {
+      "id": "g085",
+      "name": "VIXX",
+      "koreanName": "빅스",
+      "companyID": "jellyfish",
+      "debutYear": 2012,
+      "kind": "男團",
+      "fandom": "ST☆RLIGHT",
+      "wikipediaTitle": "VIXX",
+      "memberNames": [
+        "N",
+        "Leo",
+        "Ken",
+        "Ravi",
+        "Hongbin",
+        "Hyuk"
+      ],
+      "summary": "以戲劇化的概念、造型與表演，打造不同主題的音樂世界。",
+      "palette": 1
+    },
+    {
+      "id": "g086",
+      "name": "gugudan",
+      "koreanName": "구구단",
+      "companyID": "jellyfish",
+      "debutYear": 2016,
+      "kind": "女團",
+      "fandom": "Dan-jjak",
+      "wikipediaTitle": "Gugudan",
+      "memberNames": [
+        "Mimi",
+        "Hana",
+        "Haebin",
+        "Nayoung",
+        "Sejeong",
+        "Sally",
+        "Soyee",
+        "Mina",
+        "Hyeyeon"
+      ],
+      "summary": "以不同劇場概念與歌聲，留下多樣的音樂故事。",
+      "palette": 2
+    },
+    {
+      "id": "g087",
+      "name": "CORTIS",
+      "koreanName": "코르티스",
+      "companyID": "bighit",
+      "debutYear": 2025,
+      "kind": "男團",
+      "fandom": "COER",
+      "wikipediaTitle": "Cortis",
+      "memberNames": [
+        "Martin",
+        "James",
+        "Juhoon",
+        "Seonghyeon",
+        "Keonho"
+      ],
+      "summary": "五位成員參與音樂、表演與影像，從自己的故事出發探索創作。",
+      "palette": 3
+    },
+    {
+      "id": "g088",
+      "name": "Hearts2Hearts",
+      "koreanName": "하츠투하츠",
+      "companyID": "sm",
+      "debutYear": 2025,
+      "kind": "女團",
+      "fandom": "S2U",
+      "wikipediaTitle": "Hearts2Hearts",
+      "memberNames": [
+        "Jiwoo",
+        "Carmen",
+        "Yuha",
+        "Stella",
+        "Juun",
+        "A-na",
+        "Ian",
+        "Ye-on"
+      ],
+      "summary": "以情感與心意相連，展開清新的音樂世界。",
+      "palette": 4
+    },
+    {
+      "id": "g089",
+      "name": "KickFlip",
+      "koreanName": "킥플립",
+      "companyID": "jyp",
+      "debutYear": 2025,
+      "kind": "男團",
+      "fandom": "WeFlip",
+      "wikipediaTitle": "KickFlip",
+      "memberNames": [
+        "Kyehoon",
+        "Amaru",
+        "Donghwa",
+        "Juwang",
+        "Minje",
+        "Keiju",
+        "Donghyeon"
+      ],
+      "summary": "以青春態度與舞台活力，探索屬於自己的表達方式。",
+      "palette": 5
+    },
+    {
+      "id": "g090",
+      "name": "Weeekly",
+      "koreanName": "위클리",
+      "companyID": "ist",
+      "debutYear": 2020,
+      "kind": "女團",
+      "fandom": "Daileee",
+      "wikipediaTitle": "Weeekly",
+      "memberNames": [
+        "Lee Soojin",
+        "Monday",
+        "Park Soeun",
+        "Lee Jaehee",
+        "Jihan",
+        "Zoa",
+        "Shin Jiyoon"
+      ],
+      "summary": "把每一天的青春日常唱成明亮、充滿節奏感的歌曲。",
+      "palette": 0
+    },
+    {
+      "id": "g091",
+      "name": "Golden Child",
+      "koreanName": "골든차일드",
+      "companyID": "woollim",
+      "debutYear": 2017,
+      "kind": "男團",
+      "fandom": "Goldenness",
+      "wikipediaTitle": "Golden Child (band)",
+      "memberNames": [
+        "Daeyeol",
+        "Y",
+        "Jangjun",
+        "TAG",
+        "Seungmin",
+        "Jaehyun",
+        "Jibeom",
+        "Donghyun",
+        "Joochan",
+        "Bomin",
+        "Jaeseok"
+      ],
+      "summary": "從清爽青春到成熟概念，呈現團體的多種舞台面貌。",
+      "palette": 1
+    },
+    {
+      "id": "g092",
+      "name": "Rocket Punch",
+      "koreanName": "로켓펀치",
+      "companyID": "woollim",
+      "debutYear": 2019,
+      "kind": "女團",
+      "fandom": "Ketchy",
+      "wikipediaTitle": "Rocket Punch",
+      "memberNames": [
+        "Juri",
+        "Yeonhee",
+        "Suyun",
+        "Yunkyoung",
+        "Sohee",
+        "Dahyun"
+      ],
+      "summary": "以明亮流行旋律與活力舞蹈，展現多彩的青春能量。",
+      "palette": 2
+    },
+    {
+      "id": "g093",
+      "name": "4Minute",
+      "koreanName": "포미닛",
+      "companyID": "cube",
+      "debutYear": 2009,
+      "kind": "女團",
+      "fandom": "4NIA",
+      "wikipediaTitle": "4Minute",
+      "memberNames": [
+        "Nam Jihyun",
+        "Heo Gayoon",
+        "Jeon Jiyoon",
+        "Hyuna",
+        "Kwon Sohyun"
+      ],
+      "summary": "以強烈態度與舞曲節奏，留下具有辨識度的舞台作品。",
+      "palette": 3
+    },
+    {
+      "id": "g094",
+      "name": "BEAST / Highlight",
+      "koreanName": "비스트 / 하이라이트",
+      "companyID": "cube",
+      "debutYear": 2009,
+      "kind": "男團",
+      "fandom": "BEAUTY / LIGHT",
+      "wikipediaTitle": "Highlight (band)",
+      "memberNames": [
+        "Yoon Doojoon",
+        "Yang Yoseob",
+        "Lee Gikwang",
+        "Son Dongwoon",
+        "Yong Junhyung",
+        "Jang Hyunseung"
+      ],
+      "summary": "以 BEAST 出道，部分成員後以 Highlight 名義延續音樂旅程。",
+      "palette": 4
+    },
+    {
+      "id": "g095",
+      "name": "FTISLAND",
+      "koreanName": "에프티아일랜드",
+      "companyID": "fnc",
+      "debutYear": 2007,
+      "kind": "樂團",
+      "fandom": "Primadonna",
+      "wikipediaTitle": "F.T. Island",
+      "memberNames": [
+        "Lee Hongki",
+        "Lee Jaejin",
+        "Choi Minhwan",
+        "Choi Jonghoon",
+        "Oh Wonbin",
+        "Song Seunghyun"
+      ],
+      "summary": "以充滿情感的歌聲與搖滾樂器，展開偶像樂團的音樂篇章。",
+      "palette": 5
+    },
+    {
+      "id": "g096",
+      "name": "AOA",
+      "koreanName": "에이오에이",
+      "companyID": "fnc",
+      "debutYear": 2012,
+      "kind": "女團",
+      "fandom": "ELVIS",
+      "wikipediaTitle": "AOA (group)",
+      "memberNames": [
+        "Choa",
+        "Jimin",
+        "Yuna",
+        "Youkyung",
+        "Hyejeong",
+        "Mina",
+        "Seolhyun",
+        "Chanmi"
+      ],
+      "summary": "從樂團與舞蹈概念出發，以不同風格的歌曲留下音樂足跡。",
+      "palette": 0
+    },
+    {
+      "id": "g097",
+      "name": "Cherry Bullet",
+      "koreanName": "체리블렛",
+      "companyID": "fnc",
+      "debutYear": 2019,
+      "kind": "女團",
+      "fandom": "Lullet",
+      "wikipediaTitle": "Cherry Bullet",
+      "memberNames": [
+        "Haeyoon",
+        "Yuju",
+        "Bora",
+        "Jiwon",
+        "Remi",
+        "Chaerin",
+        "May",
+        "Mirae",
+        "Kokoro",
+        "Linlin"
+      ],
+      "summary": "結合甜美旋律與活力舞台，呈現不同於單一印象的團體色彩。",
+      "palette": 1
+    },
+    {
+      "id": "g098",
+      "name": "S.E.S.",
+      "koreanName": "에스이에스",
+      "companyID": "sm",
+      "debutYear": 1997,
+      "kind": "女團",
+      "fandom": "Friend",
+      "wikipediaTitle": "S.E.S. (group)",
+      "memberNames": [
+        "Bada",
+        "Eugene",
+        "Shoo"
+      ],
+      "summary": "第一代韓流女團的代表之一，以和聲與流行旋律留下經典。",
+      "palette": 2
+    },
+    {
+      "id": "g099",
+      "name": "H.O.T.",
+      "koreanName": "에이치오티",
+      "companyID": "sm",
+      "debutYear": 1996,
+      "kind": "男團",
+      "fandom": "Club H.O.T.",
+      "wikipediaTitle": "H.O.T. (band)",
+      "memberNames": [
+        "Moon Heejun",
+        "Jang Woohyuk",
+        "Tony An",
+        "Kangta",
+        "Lee Jaewon"
+      ],
+      "summary": "第一代韓流男團的重要代表，見證現代偶像文化的發展。",
+      "palette": 3
+    },
+    {
+      "id": "g100",
+      "name": "fromis_9",
+      "koreanName": "프로미스나인",
+      "companyID": "stone",
+      "debutYear": 2018,
+      "kind": "女團",
+      "fandom": "flover",
+      "wikipediaTitle": "Fromis 9",
+      "memberNames": [
+        "Lee Saerom",
+        "Song Hayoung",
+        "Jang Gyuri",
+        "Park Jiwon",
+        "Roh Jisun",
+        "Lee Seoyeon",
+        "Lee Chaeyoung",
+        "Lee Nagyung",
+        "Baek Jiheon"
+      ],
+      "summary": "從選秀舞台相遇，用明亮流行與細膩旋律延續青春故事。",
+      "palette": 4
+    },
+    {
+      "id": "g101",
+      "name": "IZ*ONE",
+      "koreanName": "아이즈원",
+      "companyID": "stone",
+      "debutYear": 2018,
+      "kind": "女團",
+      "fandom": "WIZ*ONE",
+      "wikipediaTitle": "Iz*One",
+      "memberNames": [
+        "Kwon Eunbi",
+        "Sakura",
+        "Kang Hyewon",
+        "Choi Yena",
+        "Lee Chaeyeon",
+        "Kim Chaewon",
+        "Kim Minju",
+        "Nako Yabuki",
+        "Hitomi Honda",
+        "Jo Yuri",
+        "An Yujin",
+        "Jang Wonyoung"
+      ],
+      "summary": "韓日成員組成的限定團，以華麗編舞與花朵意象留下音樂篇章。",
+      "palette": 5
+    },
+    {
+      "id": "g102",
+      "name": "I.O.I",
+      "koreanName": "아이오아이",
+      "companyID": "ymc",
+      "debutYear": 2016,
+      "kind": "女團",
+      "fandom": "參考團體資料",
+      "wikipediaTitle": "I.O.I",
+      "memberNames": [
+        "Lim Nayoung",
+        "Kim Chungha",
+        "Kim Sejeong",
+        "Jung Chaeyeon",
+        "Zhou Jieqiong",
+        "Kim Sohye",
+        "Yu Yeonjung",
+        "Choi Yoojung",
+        "Kang Mina",
+        "Kim Doyeon",
+        "Jeon Somi"
+      ],
+      "summary": "選秀節目誕生的限定女團，成員後續在不同舞台延續各自旅程。",
+      "palette": 0
+    },
+    {
+      "id": "g103",
+      "name": "Wanna One",
+      "koreanName": "워너원",
+      "companyID": "ymc",
+      "debutYear": 2017,
+      "kind": "男團",
+      "fandom": "Wannable",
+      "wikipediaTitle": "Wanna One",
+      "memberNames": [
+        "Kang Daniel",
+        "Park Jihoon",
+        "Lee Daehwi",
+        "Kim Jaehwan",
+        "Ong Seongwu",
+        "Park Woojin",
+        "Lai Kuanlin",
+        "Yoon Jisung",
+        "Hwang Minhyun",
+        "Bae Jinyoung",
+        "Ha Sungwoon"
+      ],
+      "summary": "由選秀舞台集結的限定男團，以青春能量與音樂留下共同記憶。",
+      "palette": 1
+    },
+    {
+      "id": "g104",
+      "name": "NiziU",
+      "koreanName": "ニジュー",
+      "companyID": "jyp",
+      "debutYear": 2020,
+      "kind": "女團",
+      "fandom": "WithU",
+      "wikipediaTitle": "NiziU",
+      "memberNames": [
+        "Mako",
+        "Rio",
+        "Maya",
+        "Riku",
+        "Ayaka",
+        "Mayuka",
+        "Rima",
+        "Miihi",
+        "Nina"
+      ],
+      "summary": "透過日本選秀企劃誕生的團體，以明亮旋律連結韓日音樂世界。 本館採日本正式出道年份。",
+      "palette": 2
+    },
+    {
+      "id": "g105",
+      "name": "NEXZ",
+      "koreanName": "넥스지",
+      "companyID": "jyp",
+      "debutYear": 2024,
+      "kind": "男團",
+      "fandom": "NEX2Y",
+      "wikipediaTitle": "Nexz",
+      "memberNames": [
+        "Tomoya",
+        "Yu",
+        "Haru",
+        "So Geon",
+        "Seita",
+        "Hyui",
+        "Yuki"
+      ],
+      "summary": "由跨國選秀企劃集結，以新世代的青春與舞蹈能量展開旅程。",
+      "palette": 3
+    },
+    {
+      "id": "g106",
+      "name": "TNX",
+      "koreanName": "티엔엑스",
+      "companyID": "pnation",
+      "debutYear": 2022,
+      "kind": "男團",
+      "fandom": "THX",
+      "wikipediaTitle": "The New Six",
+      "memberNames": [
+        "Choi Taehun",
+        "Woo Kyungjun",
+        "Jang Hyunsoo",
+        "Cheon Junhyeok",
+        "Eun Hwi",
+        "Oh Sungjun"
+      ],
+      "summary": "又名 The New Six，以青春故事與鮮明節奏呈現團體風格。",
+      "palette": 4
+    },
+    {
+      "id": "g107",
+      "name": "TEMPEST",
+      "koreanName": "템페스트",
+      "companyID": "yuehua",
+      "debutYear": 2022,
+      "kind": "男團",
+      "fandom": "iE",
+      "wikipediaTitle": "Tempest (South Korean band)",
+      "memberNames": [
+        "Hanbin",
+        "Hyeongseop",
+        "Hyuk",
+        "Eunchan",
+        "LEW",
+        "Hwarang",
+        "Taerae"
+      ],
+      "summary": "以活力與清爽旋律，展現向前奔跑的青春面貌。",
+      "palette": 5
+    },
+    {
+      "id": "g108",
+      "name": "EVNNE",
+      "koreanName": "이븐",
+      "companyID": "jellyfish",
+      "debutYear": 2023,
+      "kind": "男團",
+      "fandom": "ENNVE",
+      "wikipediaTitle": "Evnne",
+      "memberNames": [
+        "Keita",
+        "Park Hanbin",
+        "Lee Jeonghyeon",
+        "Yoo Seungeon",
+        "Ji Yunseo",
+        "Mun Junghyun",
+        "Park Jihoo"
+      ],
+      "summary": "從選秀舞台走向新的相遇，以不同聲線與舞蹈展現團體默契。",
+      "palette": 0
+    },
+    {
+      "id": "g109",
+      "name": "ONEWE",
+      "koreanName": "원위",
+      "companyID": "rbw",
+      "debutYear": 2019,
+      "kind": "樂團",
+      "fandom": "WEVE",
+      "wikipediaTitle": "Onewe",
+      "memberNames": [
+        "Yonghoon",
+        "Harin",
+        "Kanghyun",
+        "Dongmyeong",
+        "Giuk"
+      ],
+      "summary": "前身為 MAS，以樂器演奏與成員創作，唱出細膩情緒。",
+      "palette": 1
+    },
+    {
+      "id": "g110",
+      "name": "AMPERS&ONE",
+      "koreanName": "앰퍼샌드원",
+      "companyID": "fnc",
+      "debutYear": 2023,
+      "kind": "男團",
+      "fandom": "ANDEAR",
+      "wikipediaTitle": "Ampers&One",
+      "memberNames": [
+        "Na Kamden",
+        "Brian",
+        "Choi Jiho",
+        "Yoon Siyun",
+        "Kyrell",
+        "Mackiah",
+        "Kim Seungmo"
+      ],
+      "summary": "結合跨國成員的個性，透過舞台展開共同成長的青春故事。",
+      "palette": 2
+    },
+    {
+      "id": "g111",
+      "name": "EXID",
+      "koreanName": "이엑스아이디",
+      "companyID": "banana",
+      "debutYear": 2012,
+      "kind": "女團",
+      "fandom": "LEGGO",
+      "wikipediaTitle": "EXID",
+      "memberNames": [
+        "Solji",
+        "LE",
+        "Hani",
+        "Hyelin",
+        "Jeonghwa",
+        "Dami",
+        "Yuji",
+        "Haeryeong"
+      ],
+      "summary": "以鮮明饒舌、歌唱音色與節奏感留下獨特的團體印記。",
+      "palette": 3
+    },
+    {
+      "id": "g112",
+      "name": "Brave Girls / BBGIRLS",
+      "koreanName": "브레이브걸스 / 브브걸",
+      "companyID": "brave",
+      "debutYear": 2011,
+      "kind": "女團",
+      "fandom": "FEARLESS / BBee",
+      "wikipediaTitle": "BBGirls",
+      "memberNames": [
+        "Eunyoung",
+        "Seo-a",
+        "Yejin",
+        "Yoojin",
+        "Hyeran",
+        "Minyoung",
+        "Yujeong",
+        "Eunji",
+        "Yuna",
+        "Hayun"
+      ],
+      "summary": "記錄 Brave Girls 不同時期的成員；部分成員後以 BBGIRLS 名義繼續活動。",
+      "palette": 4
+    },
+    {
+      "id": "g113",
+      "name": "Shinhwa",
+      "koreanName": "신화",
+      "companyID": "sm",
+      "debutYear": 1998,
+      "kind": "男團",
+      "fandom": "Shinhwa Changjo",
+      "wikipediaTitle": "Shinhwa",
+      "memberNames": [
+        "Eric",
+        "Lee Minwoo",
+        "Kim Dongwan",
+        "Shin Hyesung",
+        "Jun Jin",
+        "Andy"
+      ],
+      "summary": "以長期累積的團體默契，見證韓流偶像跨越世代的音樂旅程。",
+      "palette": 5
+    },
+    {
+      "id": "g114",
+      "name": "Fin.K.L",
+      "koreanName": "핑클",
+      "companyID": "dsp",
+      "debutYear": 1998,
+      "kind": "女團",
+      "fandom": "Finky",
+      "wikipediaTitle": "Fin.K.L",
+      "memberNames": [
+        "Lee Hyori",
+        "Ock Joohyun",
+        "Lee Jin",
+        "Sung Yuri"
+      ],
+      "summary": "第一代代表女團之一，在抒情歌與舞曲之間留下經典作品。",
+      "palette": 0
+    },
+    {
+      "id": "g115",
+      "name": "SS501",
+      "koreanName": "더블에스오공일",
+      "companyID": "dsp",
+      "debutYear": 2005,
+      "kind": "男團",
+      "fandom": "Triple S",
+      "wikipediaTitle": "SS501",
+      "memberNames": [
+        "Kim Hyunjoong",
+        "Heo Youngsaeng",
+        "Kim Kyujong",
+        "Park Jungmin",
+        "Kim Hyungjun"
+      ],
+      "summary": "以五位成員的不同音色與舞台魅力，留下第二代韓流的回憶。",
+      "palette": 1
+    }
+  ]
+}
